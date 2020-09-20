@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center">
-  <img src="https://www.pngfind.com/pngs/m/62-627254_i-wanted-to-give-graphql-a-shot-for.png" style="width: 100px;" />
+  <img src="https://miro.medium.com/max/1120/1*M6Tdvt02ts6MSvqk5qHibA.png" style="width: 100px;" />
 </div>
 
 <p align="center">"Liberdade é você não ter que fazer alguma coisa"</p>
