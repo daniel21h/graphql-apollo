@@ -1,7 +1,5 @@
 <div style="display: flex; justify-content: center">
-  <img src="https://graphql.org/img/logo.svg" style="width: 100px;" />
-
-  # GraphQL
+  <img src="https://www.pngfind.com/pngs/m/62-627254_i-wanted-to-give-graphql-a-shot-for.png" style="width: 100px;" />
 </div>
 
 <p align="center">"Liberdade é você não ter que fazer alguma coisa"</p>
