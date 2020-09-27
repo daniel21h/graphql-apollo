@@ -1,7 +1,6 @@
-import testResolver from './testResolver'
+import testResolver from "./testResolver";
+import customerResolver from "./customerResolver";
 
-const resolvers = [
-  testResolver
-]
+const resolvers = [testResolver, customerResolver];
 
 export default resolvers;
