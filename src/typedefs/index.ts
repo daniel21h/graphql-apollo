@@ -1,7 +1,6 @@
-import { mergeTypeDefs } from 'graphql-tools';
+import { mergeTypeDefs } from "graphql-tools";
 
-import test from './test'
+import test from "./test";
+import customer from "./customer";
 
-export default mergeTypeDefs([
-  test
-])
+export default mergeTypeDefs([test, customer]);
